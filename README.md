@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BATTLE-PY
 
 **The Wraith Protocol · Version 1.3.0 — Air Superiority Update**
@@ -152,5 +152,4 @@ BATTLE-PY was implemented as an original Python interpretation of the earlier Ba
 =======
 # battle-py
 A 3D fighter jet combat game built with Python and Panda3D, featuring intense dogfights, enemy AI, guided missiles, realistic crash effects, and dynamic sound.
->>>>>>> 7b5009bd16541967251c675f92cc17eb4f5ad5d9
 
